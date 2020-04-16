@@ -6,10 +6,10 @@ def cambia (p):
 
 a= {"1":"hola"}
 b= "Mundo"
-
+c= "bienvenidos"
 
 cambia(a)
 
-print(a,b)
+print(a,b,c)
 
 
