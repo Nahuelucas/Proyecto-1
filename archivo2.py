@@ -1,2 +1,4 @@
+a= "Hola me falto este mensaje"
+
 c= "hola Mundo"
-print(c)
+print(a,c)
